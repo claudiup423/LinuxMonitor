@@ -1,0 +1,3 @@
+/home/claudiu/portofoliu_ws/src/Application-Development/SystemMonitor/build/CMakeFiles/rebuild_cache.dir
+/home/claudiu/portofoliu_ws/src/Application-Development/SystemMonitor/build/CMakeFiles/monitor.dir
+/home/claudiu/portofoliu_ws/src/Application-Development/SystemMonitor/build/CMakeFiles/edit_cache.dir
